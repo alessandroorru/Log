@@ -1,4 +1,4 @@
-# EasySwiftLogger
+# SimpleSwiftLogger
 Simple Swift logger with colors support.
 It started as a simple single-project only file, but I would like to extend it.
 
