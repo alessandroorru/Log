@@ -1,6 +1,6 @@
-# The damn simple Swift Logger
-Lightweight Swift logger with color support.
+# Log: The light Swift Logger
 
+Lightweight Swift logger with color support.
 
 ## Install
 Drop `Log.swift` in your project and configure your desired log level like this:
